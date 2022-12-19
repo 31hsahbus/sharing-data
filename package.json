@@ -1,11 +1,19 @@
 {
   "name": "package.json",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/31hsahbus/sharing-data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/31hsahbus/sharing-data/issues"
+  },
+  "homepage": "https://github.com/31hsahbus/sharing-data#readme",
+  "description": ""
 }
